@@ -3,3 +3,4 @@ NBA Players - это клиенто-серверное мобильное при
 
 Данные получаются путем API запроса на сервер: https://www.balldontlie.io/#introduction
 Верстка экрана делается на storyboard + частично в коде.
+
